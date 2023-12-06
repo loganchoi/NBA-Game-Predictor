@@ -28,9 +28,4 @@ We invite contributions from the community to enhance the accuracy and versatili
 
 3. **Data Enthusiasts:** If you love working with sports data, share your insights or contribute datasets that can further enrich our models.
 
-## Resources
-
-- [Documentation](#) (Coming soon!)
-- [Blog Posts](#) (Explore in-depth articles on the intersection of machine learning and NBA analytics)
-
 Join us in unraveling the complexities of NBA games through the lens of machine learning. Let's make sports predictions more accurate, insightful, and enjoyable for fans! 🎉🔍
